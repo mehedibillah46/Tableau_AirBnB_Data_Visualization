@@ -1,2 +1,2 @@
 # Tableau_AirBnB_Data_Visualization
-In this Project, I have worked with big data for the visualization for AirBnB to know different aspects of their business such as Price per Zipcode, 
+In this project, I worked with big data to create visualizations for AirBnB, analyzing various business aspects such as price per zipcode, the average price per bedroom, and annual revenue.
